@@ -1,16 +1,151 @@
-# React + Vite
+# 🚀 Registration Wizard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern multi-step registration form built using React, Tailwind CSS, React Hook Form, and Zod validation.
 
-Currently, two official plugins are available:
+This project demonstrates real-world frontend development concepts including multi-step forms, schema validation, controlled navigation, responsive UI design, and enterprise-level form handling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add your Vercel deployment link here:
 
-## Expanding the ESLint configuration
+```bash
+https://your-project.vercel.app
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🧩 Multi-Step Registration Wizard
+- ✅ Real-Time Form Validation
+- 🔐 Password & Confirm Password Matching
+- 👁️ Show / Hide Password Toggle
+- 📊 Dynamic Progress Bar
+- ⚛️ React Hook Form Integration
+- 🛡️ Zod Schema Validation
+- 🎨 Modern Tailwind CSS UI
+- 📱 Fully Responsive Design
+- 🚀 Fast Vite Build Setup
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+
+### Styling
+- Tailwind CSS
+
+### Form Handling
+- React Hook Form
+
+### Validation
+- Zod
+- @hookform/resolvers
+
+---
+
+## 📂 Folder Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── Step1.jsx
+│   ├── Step2.jsx
+│   └── Step3.jsx
+│
+├── schemas/
+│   └── validationSchema.js
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/registration-wizard.git
+```
+
+Navigate to project folder:
+
+```bash
+cd registration-wizard
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Dependencies
+
+```bash
+npm install react-hook-form zod @hookform/resolvers
+npm install tailwindcss @tailwindcss/vite
+```
+
+---
+
+## 🧠 Key Learning Concepts
+
+This project covers:
+
+- Controlled Components
+- State Management
+- Multi-Step Form Navigation
+- Schema-Based Validation
+- Regex Validation
+- Form UX Design
+- Tailwind Responsive UI
+- Enterprise-Level Form Architecture
+
+---
+
+## 📸 Screenshots
+
+Add screenshots here:
+
+```bash
+/public/screenshots/
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using:
+
+- GitHub
+- Vercel
+
+---
+
+## 👨‍💻 Author
+
+Aryan NP
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
