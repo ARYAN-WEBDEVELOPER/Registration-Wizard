@@ -11,7 +11,7 @@ This project demonstrates real-world frontend development concepts including mul
 Add your Vercel deployment link here:
 
 ```bash
-https://your-project.vercel.app
+https://registration-wizard-77b1.vercel.app/
 ```
 
 ---
