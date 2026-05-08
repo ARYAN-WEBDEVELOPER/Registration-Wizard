@@ -131,18 +131,9 @@ Add screenshots here:
 
 ---
 
-## 🚀 Deployment
-
-This project is deployed using:
-
-- GitHub
-- Vercel
-
----
-
 ## 👨‍💻 Author
 
-Aryan NP
+Aryan 
 
 ---
 
